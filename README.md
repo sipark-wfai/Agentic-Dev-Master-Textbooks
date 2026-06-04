@@ -1,8 +1,8 @@
 # 에이전틱 개발 마스터 교재 시리즈
 
-> **Agentic Development Master Textbook Series**
-> 대학생·신입 개발자·기획자·디자이너를 위한 AI 에이전트 코딩 도구 완전 정복 교재
-> **Calude Sonnet 4.6으로 생성하였음을 밝히며, 교재가 잘못된 정보를 담고 있을 수 있습니다.**
+- **Agentic Development Master Textbook Series**
+- 대학생·신입 개발자·기획자·디자이너를 위한 AI 에이전트 코딩 도구 완전 정복 교재
+- **Calude Sonnet 4.6으로 생성하였음을 밝히며, 교재가 잘못된 정보를 담고 있을 수 있습니다.**
 - **최종 수정**: 2026-06-05
 - **작성**: 워크포스에이아이(WorkforceAI)
 - **협업**: Calude Sonnet 4.6
