@@ -3,7 +3,7 @@
 - **Agentic Development Master Textbook Series**
 - 대학생·신입 개발자·기획자·디자이너를 위한 AI 에이전트 코딩 도구 완전 정복 교재
 - **Calude Sonnet 4.6으로 생성하였음을 밝히며, 할루시네이션으로 인해 교재에 잘못된 정보를 담고 있을 수 있습니다.** (지속적으로 검증하며 보완할 계획입니다.)
-- **최종 수정**: 2026-06-05
+- **최종 수정**: 2026-06-07
 - **작성**: 워크포스에이아이(WorkforceAI)
 - **협업**: Calude Sonnet 4.6
 - **문의 이메일**: sipark@workforceai.kr
