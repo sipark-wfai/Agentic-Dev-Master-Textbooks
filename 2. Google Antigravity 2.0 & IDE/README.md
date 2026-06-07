@@ -4,7 +4,7 @@
 - **대상**: 대학생, 신입 개발자·기획자·디자이너
 - **교재 수**: 총 16편
 - **예제 프로젝트**: SvelteKit + NestJS + PostgreSQL 16 + Prisma v5 멀티 게시판 허브
-- **최종 수정**: 2026-06-05
+- **최종 수정**: 2026-06-07
 - **작성**: 워크포스에이아이(WorkforceAI)
 - **협업**: Calude Sonnet 4.6
 - **문의 이메일**: sipark@workforceai.kr
